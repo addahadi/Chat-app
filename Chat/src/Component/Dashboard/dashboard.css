@@ -1,0 +1,19 @@
+.dashboard{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    overflow: hidden;
+    padding: 20px;
+
+}
+
+.Carts{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-direction: row;
+    height: 9rem;
+
+}
